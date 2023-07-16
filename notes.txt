@@ -26,7 +26,7 @@ Isi Content
 -> Nama 'Buyung Saloka', deskripsi singkat, button 'about', foto diri
 
 3. About
--> Judul 'About', nama 'mbsaloka', gallery
+-> Judul 'About', nama 'mbsaloka', gallery, deskripsi
 
 4. Education {SMP, SMA, Kuliah} 
 -> card, judul, image, desc
