@@ -35,3 +35,9 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.icon-container {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
